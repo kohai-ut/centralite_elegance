@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **This repository is archived.** Active development has moved to a new unified integration that supports both Centralite Elegance and JetStream systems:
+>
+> ### [→ kohai-ut/centralite-ha](https://github.com/kohai-ut/centralite-ha)
+>
+> The v2 rewrite is async, uses HA config flow (no YAML editing required), is packaged for HACS, includes a bulk friendly-name import from your Centralite `.elg` config file, and ships with a one-time entity-registry migration so existing entities keep their customizations (areas, aliases, icons, dashboard placements).
+>
+> This repo's last working release is tagged [v1.0.1](https://github.com/kohai-ut/centralite_elegance/releases/tag/v1.0.1) and remains pullable forever via `git clone --branch v1.0.1 …` for anyone who wants the v1 code.
+
+---
+
 # centralite_elegance
 Centralite for home assistant 
 
